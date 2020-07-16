@@ -21,8 +21,13 @@
   </h3>
 </div>
 
-<div align="center">
-<strong> YOU DO NOT HAVE PERMISSION TO USE, MODIFY OR DISTRIBUTE THIS CODE IN ANY WAY
+<h2>
+  <div align="center">
+    <strong> YOU DO NOT HAVE PERMISSION TO USE, MODIFY OR DISTRIBUTE THIS CODE IN ANY WAY
+      Yes that is correct. You DO NOT. And no, modules on the magisk repo DO NOT have to be open source
+      or GPL compliant at all! 
+  </div>
+</h2>
 
 ## Using The Custom Option
 * CURRENTLY BROKEN
