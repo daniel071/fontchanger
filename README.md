@@ -100,7 +100,7 @@
 
 ## Changelog
 ## v2.8.0.0 - 2.2.2020
-* Readd shortcut options.
+* Read shortcut options.
 * Typos/bug fixes
 * Now when you apply an avfont CURRENT= will show AVfont-<name of font>
 * Add a random option. Will apply a random font
