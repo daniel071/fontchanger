@@ -21,14 +21,6 @@
   </h3>
 </div>
 
-<h2>
-  <div align="center">
-    <strong> YOU DO NOT HAVE PERMISSION TO USE, MODIFY OR DISTRIBUTE THIS CODE IN ANY WAY
-      Yes that is correct. You DO NOT. And no, modules on the magisk repo DO NOT have to be open source
-      or GPL compliant at all! 
-  </div>
-</h2>
-
 ## Using The Custom Option
 * CURRENTLY BROKEN
 
@@ -41,7 +33,7 @@
   -c|--cemoji [custom emoji]  apply the custom emoji
   e.g., font_changer -c <name of custom emoji>
   e.g., font_changer --cemoji <name of custom emoji>
-  
+
   -d|--cfont [custom font]    apply a custom font
   e.g., font_changer -d <name of custom font>
   e.g., font_changer --cfont <name of custom font>
@@ -73,7 +65,7 @@
   -s|--current                show current font
   e.g., font_changer -s
   e.g., font_changer --current
-  
+
   -t|--randomav               apply a random avfont font
   e.g., font_changer -t
   e.g., font_changer --randomav
@@ -108,7 +100,7 @@
 
 ## Changelog
 ## v2.8.0.0 - 2.2.2020
-* Readd shortcut options. 
+* Readd shortcut options.
 * Typos/bug fixes
 * Now when you apply an avfont CURRENT= will show AVfont-<name of font>
 * Add a random option. Will apply a random font
@@ -268,7 +260,7 @@
 * Now fonts with only one file can be applied.
 * add ttc support
 * revamped help menu. choose from main menu or use font_changer -h or font_changer -help
-* new shortcuts options. 
+* new shortcuts options.
 Options:
     -a|—font [font name]        apply the font
     -d|—cfont [custom font]     apply the custom font
@@ -301,7 +293,7 @@ Options:
 * Add curl during install for users that dont have curl on their devices
 
 ## v1.3 - 6.14.2019
-* Fix issue with curl choosing multiple fonts. Everything below 100 will work now. 
+* Fix issue with curl choosing multiple fonts. Everything below 100 will work now.
 * Fix ttf typo in help
 * Other bug fixes/typos
 
